@@ -1,0 +1,24 @@
+[
+  {
+    "candidate_name": "Candidate",
+    "recipient_email": "",
+    "job_title": "Senior Python Developer",
+    "subject": "Application Update - Senior Python Developer",
+    "body": "Dear Candidate,\n\nThank you for taking the time to apply and share your background for the Senior Python Developer position.\n\nAfter reviewing your profile, we have decided to move forward with other candidates whose skills and experience more closely match the current needs of the role.\n\nWe appreciate your interest in our company and wish you the best of luck in your job search.\n\nSincerely,\nThe Hiring Team\nHireGenie AI Recruitment\n",
+    "type": "rejection",
+    "status": "Sent",
+    "sent_at": "2026-07-02T01:49:03.124647",
+    "_id": "1"
+  },
+  {
+    "candidate_name": "Alice Miller",
+    "recipient_email": "alice.miller@example.com",
+    "job_title": "Senior Python Developer",
+    "subject": "Interview Invitation - HireGenie AI for Senior Python Developer",
+    "body": "Dear Alice Miller,\n\nThank you for applying to the Senior Python Developer position at our company.\n\nWe were highly impressed by your resume and would like to invite you for an initial interview. \nThe interview will take place on: Tomorrow at 10:00 AM.\n\nPlease join the video meeting link below at the scheduled time:\nMeeting Link: https://meet.google.com/hgf-recr-2\n\nIf you have any questions or need to reschedule, please reply directly to this email.\n\nBest regards,\nThe Hiring Team\nHireGenie AI Recruitment\n",
+    "type": "invitation",
+    "status": "Sent",
+    "sent_at": "2026-07-02T01:56:45.247744",
+    "_id": "2"
+  }
+]

@@ -1,0 +1,14 @@
+: int,
+        kernel_size: int,
+        drop_rate: float,
+        id_skip: bool,
+        adjust_padding: bool,
+    ):
+        super().__init__()
+        self.expand_ratio = expand_ratio
+        self.expand = self.expand_ratio != 1
+        expand_in_dim = in_dim * expand_ratio
+
+        if self.expand:
+            self.expansion = AlignVisionExpansionLayer(
+                config=config, in_dim=in_

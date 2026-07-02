@@ -1,0 +1,18 @@
+[
+  {
+    "candidate_id": "1",
+    "job_id": "job_python_developer",
+    "score": 42,
+    "recommendation": "Reject",
+    "summary": "Candidate matches 42% of requirements. Key strengths include general engineering background. Main skill gap is Python, SQL.",
+    "_id": "1"
+  },
+  {
+    "candidate_id": "2",
+    "job_id": "job_python_developer",
+    "score": 91,
+    "recommendation": "Hire",
+    "summary": "Candidate matches 91% of requirements. Key strengths include FastAPI, SQL, Python. Main skill gap is AWS.",
+    "_id": "2"
+  }
+]

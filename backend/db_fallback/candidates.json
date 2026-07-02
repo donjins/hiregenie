@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Candidate",
+    "email": "",
+    "phone": "9 0 4 8 1 2 9 2 7 7",
+    "skills": [],
+    "experience": [
+      {
+        "role": "Software Developer",
+        "duration": "3 years",
+        "description": "General software engineering work."
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "State University"
+      }
+    ],
+    "certifications": [],
+    "projects": [
+      {
+        "title": "Personal Portfolio Website",
+        "description": "Showcasing projects and skills."
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "status": "Rejected",
+    "job_id": "job_python_developer",
+    "interview_scheduled": false,
+    "interview_time": null,
+    "_id": "1",
+    "match_details": {
+      "match_percentage": 42,
+      "strengths": [
+        "Has direct project or workplace experience in software development.",
+        "Possesses relevant academic qualifications."
+      ],
+      "weaknesses": [
+        "Missing knowledge of relevant requirements: Python, SQL, Docker.",
+        "Work experience length (~3 years) is below target of 4.0 years."
+      ],
+      "missing_skills": [
+        "Python",
+        "SQL",
+        "Docker",
+        "AWS",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "recommendation": "Reject",
+      "learning_resources": [
+        {
+          "skill": "Python",
+          "resource_name": "Official Python Documentation & Getting Started Guide",
+          "url": "https://www.google.com/search?q=Python+learning+course"
+        },
+        {
+          "skill": "SQL",
+          "resource_name": "Official SQL Documentation & Getting Started Guide",
+          "url": "https://www.google.com/search?q=SQL+learning+course"
+        },
+        {
+          "skill": "Docker",
+          "resource_name": "Official Docker Documentation & Getting Started Guide",
+          "url": "https://www.google.com/search?q=Docker+learning+course"
+        }
+      ],
+      "summary": "Candidate matches 42% of requirements. Key strengths include general engineering background. Main skill gap is Python, SQL."
+    },
+    "ats_score": 42,
+    "generated_questions": {
+      "hr_questions": [
+        {
+          "question": "Tell me about yourself and your journey as a software professional.",
+          "intent": "Icebreaker, communication check, and career summary review."
+        },
+        {
+          "question": "Why should we hire you for this role? What unique value do you bring?",
+          "intent": "Assess candidate self-awareness and alignment with job criteria."
+        },
+        {
+          "question": "Describe a difficult technical challenge you solved. How did you approach and resolve it?",
+          "intent": "Assess problem-solving methodology and debugging skills."
+        }
+      ],
+      "technical_questions": {
+        "Beginner": [
+          {
+            "question": "What is Git and how does it help in software development?",
+            "answer": "Git is a distributed version control system used to track changes in source code during software development, allowing teamwork, rollbacks, and branching."
+          },
+          {
+            "question": "Explain the difference between synchronous and asynchronous programming.",
+            "answer": "Synchronous programming executes tasks sequentially (one blocks the next). Asynchronous programming allows tasks to run concurrently without blocking the main execution thread."
+          }
+        ],
+        "Intermediate": [
+          {
+            "question": "What is RESTful API design?",
+            "answer": "REST is an architectural style utilizing HTTP requests (GET, POST, PUT, DELETE) to manage resources represented as JSON or XML, featuring statelessness, cacheability, and a uniform interface."
+          },
+          {
+            "question": "What is Docker and what are its advantages?",
+            "answer": "Docker containerizes applications by bundling code, runtime, system tools, and libraries together. This guarantees consistency across development, staging, and production environments."
+          }
+        ],
+        "Advanced": [
+          {
+            "question": "What is CI/CD and how does it relate to DevOps?",
+            "answer": "CI/CD (Continuous Integration / Continuous Deployment) automates build, test, and release pipelines. Code changes are integrated, tested automatically, and shipped to staging/production swiftly and reliably."
+          },
+          {
+            "question": "Explain the principles of Microservices Architecture.",
+            "answer": "It designs an application as a collection of loosely coupled, independently deployable, and highly maintainable services organized around business capabilities, communicating via lightweight protocols (HTTP/REST or message brokers)."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "Alice Miller",
+    "email": "alice.miller@example.com",
+    "phone": "555-123-4567",
+    "skills": [
+      "FastAPI",
+      "JavaScript",
+      "Scikit-Learn",
+      "Machine Learning",
+      "Cloud",
+      "Flask",
+      "SQL",
+      "Git",
+      "MongoDB",
+      "Python",
+      "Docker",
+      "PostgreSQL",
+      "Django"
+    ],
+    "experience": [
+      {
+        "role": "Python Developer | AI & Machine Learning Enthusiast",
+        "duration": "N/A",
+        "description": "Email: alice.miller@example.com | Phone: +1-555-123-4567 | LinkedIn: linkedin.com/in/alicemiller | GitHub: github.com/alicemiller Professional Summary"
+      },
+      {
+        "role": "Python Developer with experience building scalable backend applications and AI-powered",
+        "duration": "N/A",
+        "description": "solutions. Skilled in Python, FastAPI, REST APIs, machine learning, LLM integration, vector databases, and cloud deployment. Passionate about developing intelligent applications using modern AI frameworks."
+      },
+      {
+        "role": "Python Developer (2024\u2013Present)",
+        "duration": "2024\u2013Present",
+        "description": "Designed REST APIs with FastAPI, integrated AI models, implemented authentication, optimized database operations, and developed document processing pipelines using embeddings and vector search."
+      },
+      {
+        "role": "Problem Solving \u007f AI Application Development \u007f Backend Engineering \u007f REST API Design \u007f Team",
+        "duration": "N/A",
+        "description": "Collaboration"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Computer Science (Example University)",
+        "institution": "University / Institution"
+      }
+    ],
+    "certifications": [
+      "Certifications"
+    ],
+    "projects": [
+      {
+        "title": "Projects",
+        "description": "Developed dynamic solutions."
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "status": "Shortlisted",
+    "job_id": "job_python_developer",
+    "interview_scheduled": true,
+    "interview_time": "Tomorrow at 10:00 AM",
+    "_id": "2",
+    "match_details": {
+      "match_percentage": 91,
+      "strengths": [
+        "Demonstrates proficiency in key technologies: FastAPI, SQL, Python, Docker.",
+        "Meets or exceeds the required 4.0 years of work experience (has ~6 years).",
+        "Possesses relevant academic qualifications."
+      ],
+      "weaknesses": [
+        "Missing knowledge of relevant requirements: AWS."
+      ],
+      "missing_skills": [
+        "AWS"
+      ],
+      "recommendation": "Hire",
+      "learning_resources": [
+        {
+          "skill": "AWS",
+          "resource_name": "Official AWS Documentation & Getting Started Guide",
+          "url": "https://www.google.com/search?q=AWS+learning+course"
+        }
+      ],
+      "summary": "Candidate matches 91% of requirements. Key strengths include FastAPI, SQL, Python. Main skill gap is AWS."
+    },
+    "ats_score": 91,
+    "generated_questions": {
+      "hr_questions": [
+        {
+          "question": "Tell me about yourself and your journey as a software professional.",
+          "intent": "Icebreaker, communication check, and career summary review."
+        },
+        {
+          "question": "Why should we hire you for this role? What unique value do you bring?",
+          "intent": "Assess candidate self-awareness and alignment with job criteria."
+        },
+        {
+          "question": "Describe a difficult technical challenge you solved. How did you approach and resolve it?",
+          "intent": "Assess problem-solving methodology and debugging skills."
+        }
+      ],
+      "technical_questions": {
+        "Beginner": [
+          {
+            "question": "What is overfitting in Machine Learning and how do you prevent it?",
+            "answer": "Overfitting occurs when a model learns noise in the training data and performs poorly on unseen data. Prevent it using regularization, cross-validation, pruning, or adding more training data."
+          },
+          {
+            "question": "What is the difference between INNER JOIN and LEFT JOIN?",
+            "answer": "INNER JOIN returns records that have matching values in both tables. LEFT JOIN returns all records from the left table, and matching records from the right table, filling with NULL where no match exists."
+          },
+          {
+            "question": "Explain the difference between a list and a tuple in Python.",
+            "answer": "Lists are mutable, meaning their contents can be modified after creation. Tuples are immutable, meaning they cannot be changed."
+          }
+        ],
+        "Intermediate": [
+          {
+            "question": "Explain the bias-variance tradeoff.",
+            "answer": "Bias is error from erroneous assumptions in the model (underfitting). Variance is error from sensitivity to small fluctuations in training data (overfitting). The tradeoff represents finding a sweet spot that minimizes total error."
+          },
+          {
+            "question": "What is database normalization and what are the main forms?",
+            "answer": "Normalization is the process of organizing database tables to reduce redundancy and improve data integrity. Main forms are 1NF (atomic values), 2NF (remove partial dependencies), and 3NF (remove transitive dependencies)."
+          },
+          {
+            "question": "How does memory management work in Python?",
+            "answer": "Python uses automatic garbage collection and reference counting. A private heap space manages all objects, and the garbage collector periodically frees unreferenced memory."
+          }
+        ],
+        "Advanced": [
+          {
+            "question": "How does the Transformer self-attention mechanism work?",
+            "answer": "Self-attention computes dynamic weights for each word in a sequence relative to all other words. It uses Query, Key, and Value vectors to compute attention scores via scaled dot-product, enabling long-range context capture."
+          },
+          {
+            "question": "Explain database indexing, specifically the difference between Clustered and Non-Clustered indexes.",
+            "answer": "A Clustered index determines the physical order of data in the table (one per table). A Non-Clustered index contains pointers to the physical rows, stored in a separate structure (multiple allowed)."
+          },
+          {
+            "question": "Explain Python's Global Interpreter Lock (GIL) and its impact on multi-threading.",
+            "answer": "The GIL is a mutex that protects access to Python objects, preventing multiple native threads from executing Python bytecodes at once. This makes Python CPU-bound multi-threading single-core, but I/O-bound operations can release the GIL."
+          }
+        ]
+      }
+    }
+  }
+]

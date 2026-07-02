@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "job_python_developer",
+    "title": "Senior Python Developer",
+    "description": "We are seeking a talented Senior Python Developer to join our core backend engineering team. You will build high-performance APIs and orchestrate background processing engines.",
+    "requirements": "Python, SQL, PostgreSQL, Docker, AWS, FastAPI",
+    "experience_years": 4,
+    "education_requirements": "Bachelor's Degree in Computer Science or equivalent experience",
+    "created_at": "2026-07-01T00:00:00"
+  },
+  {
+    "_id": "job_react_engineer",
+    "title": "React Frontend Engineer",
+    "description": "Looking for a React developer to build state-of-the-art Web Application workspaces. You will optimize UI rendering, handle global state Management, and design sleek components.",
+    "requirements": "React, TypeScript, JavaScript, CSS, HTML, Tailwind CSS",
+    "experience_years": 3,
+    "education_requirements": "Bachelor's Degree in Computer Science or equivalent",
+    "created_at": "2026-07-01T00:00:00"
+  }
+]

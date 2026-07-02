@@ -1,0 +1,62 @@
+[
+  {
+    "type": "email_sent",
+    "description": "Sent rejection email to Candidate ().",
+    "timestamp": "2026-07-02T01:49:03.128096",
+    "_id": "1"
+  },
+  {
+    "type": "resume_parsed",
+    "description": "Successfully parsed resume for Candidate (- JOSEPH DON JINS.pdf).",
+    "timestamp": "now",
+    "_id": "2"
+  },
+  {
+    "type": "interview_scheduled",
+    "description": "Scheduled interview for Alice Miller (Senior Python Developer) at Tomorrow at 10:00 AM.",
+    "timestamp": "2026-07-02T01:56:45.225535",
+    "_id": "3"
+  },
+  {
+    "type": "email_sent",
+    "description": "Sent invitation email to Alice Miller (alice.miller@example.com).",
+    "timestamp": "2026-07-02T01:56:45.257583",
+    "_id": "4"
+  },
+  {
+    "type": "resume_parsed",
+    "description": "Successfully parsed resume for Alice Miller (Alice_Miller_Python_Developer.pdf).",
+    "timestamp": "now",
+    "_id": "5"
+  },
+  {
+    "type": "status_updated",
+    "description": "Updated candidate 2 status to Shortlisted.",
+    "timestamp": "now",
+    "_id": "6"
+  },
+  {
+    "type": "status_updated",
+    "description": "Updated candidate 2 status to Shortlisted.",
+    "timestamp": "now",
+    "_id": "7"
+  },
+  {
+    "type": "status_updated",
+    "description": "Updated candidate 2 status to Shortlisted.",
+    "timestamp": "now",
+    "_id": "8"
+  },
+  {
+    "type": "resume_parsed",
+    "description": "Successfully parsed resume for None (Sample_React_Developer_Resume_3_Years.pdf).",
+    "timestamp": "now",
+    "_id": "9"
+  },
+  {
+    "type": "resume_parsed",
+    "description": "Successfully parsed resume for None (Sample_React_Developer_Resume_3_Years.pdf).",
+    "timestamp": "now",
+    "_id": "10"
+  }
+]

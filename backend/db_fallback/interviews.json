@@ -1,0 +1,14 @@
+[
+  {
+    "candidate_id": "2",
+    "candidate_name": "Alice Miller",
+    "job_title": "Senior Python Developer",
+    "time_slot": "Tomorrow at 10:00 AM",
+    "interviewer": "HR Team Leader",
+    "interviewer_email": "hiring@hiregenie.ai",
+    "status": "Scheduled",
+    "meeting_link": "https://meet.google.com/hgf-recr-2",
+    "created_at": "2026-07-02T01:56:45.222041",
+    "_id": "1"
+  }
+]

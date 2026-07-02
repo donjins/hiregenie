@@ -1,0 +1,16 @@
+[
+  {
+    "name": "HR Recruiter",
+    "email": "recruiter@hiregenie.ai",
+    "hashed_password": "$2b$12$SHbYLMa9Jyv8Gq8M7f4rIOvN2SLAOr1bg3HBO8V.yeWVDBMAGl4/u",
+    "role": "Recruiter",
+    "_id": "1"
+  },
+  {
+    "name": "don",
+    "email": "recruiter@gmail.com",
+    "hashed_password": "$2b$12$PBQzF6OaBfOAWg/fnGHDI.Mo6qNjA3S/crjIJZ0LUDBbtoS5gIoD2",
+    "role": "Recruiter",
+    "_id": "2"
+  }
+]
